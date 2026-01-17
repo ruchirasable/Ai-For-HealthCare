@@ -1,0 +1,4 @@
+project_id = "plqmsprgzvrrislzljdr"
+
+[functions.mongodb-api]
+verify_jwt = false
